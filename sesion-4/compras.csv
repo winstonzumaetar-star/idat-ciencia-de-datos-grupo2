@@ -1,0 +1,52 @@
+id_compra,fecha,cliente,producto,categoria,cantidad,precio_unitario,metodo_pago,ciudad,total
+1,2026-01-03,Ana Torres,Laptop,Electrónica,1,2800.00,Tarjeta de crédito,Lima,2800.00
+2,2026-01-05,Carlos Ríos,Auriculares Bluetooth,Electrónica,2,150.00,Yape,Arequipa,300.00
+3,2026-01-07,María Loza,Silla Ergonómica,Muebles,1,650.00,Transferencia,Lima,650.00
+4,2026-01-09,Jorge Peña,Mouse Inalámbrico,Accesorios,3,80.00,Efectivo,Trujillo,240.00
+5,2026-01-11,Lucía Vega,Monitor 27,Electrónica,1,1200.00,Tarjeta de débito,Lima,1200.00
+6,2026-01-13,Pedro Salas,Teclado Mecánico,Accesorios,2,220.00,Yape,Cusco,440.00
+7,2026-01-15,Sandra Díaz,Impresora Láser,Oficina,1,980.00,Tarjeta de crédito,Lima,980.00
+8,2026-01-17,Luis Mora,Disco SSD 1TB,Almacenamiento,2,350.00,Transferencia,Piura,700.00
+9,2026-01-19,Rosa Chávez,Tablet 10,Electrónica,1,750.00,Efectivo,Lima,750.00
+10,2026-01-21,Miguel Ruiz,Webcam HD,Accesorios,1,180.00,Yape,Arequipa,180.00
+11,2026-01-23,Elena Flores,Escritorio de Madera,Muebles,1,900.00,Tarjeta de crédito,Lima,900.00
+12,2026-01-25,Rodrigo Paredes,Auriculares Gamer,Electrónica,1,320.00,Efectivo,Trujillo,320.00
+13,2026-01-27,Carla Mendoza,Lámpara LED de Escritorio,Iluminación,2,75.00,Yape,Lima,150.00
+14,2026-01-29,Héctor Villanueva,Cámara DSLR,Fotografía,1,3500.00,Tarjeta de crédito,Lima,3500.00
+15,2026-02-01,Diana Castillo,Mochila para Laptop,Accesorios,1,120.00,Efectivo,Iquitos,120.00
+16,2026-02-03,Fabián Guerrero,Smartphone Samsung,Electrónica,1,1800.00,Tarjeta de débito,Lima,1800.00
+17,2026-02-05,Natalia Quispe,Soporte para Monitor,Accesorios,2,95.00,Yape,Cusco,190.00
+18,2026-02-07,Oscar Medina,Sofá de 3 Plazas,Muebles,1,2200.00,Transferencia,Lima,2200.00
+19,2026-02-09,Valeria Cruz,Cable HDMI 2m,Accesorios,4,25.00,Efectivo,Arequipa,100.00
+20,2026-02-11,Tomás Navarro,Altavoces Bluetooth,Electrónica,1,280.00,Tarjeta de crédito,Lima,280.00
+21,2026-02-13,Isabel Campos,Mousepad XXL,Accesorios,3,45.00,Yape,Trujillo,135.00
+22,2026-02-15,Andrés Fuentes,Router WiFi 6,Redes,1,420.00,Tarjeta de débito,Lima,420.00
+23,2026-02-17,Patricia Soto,Cafetera Automática,Hogar,1,550.00,Efectivo,Piura,550.00
+24,2026-02-19,Ernesto León,Memoria RAM 16GB,Componentes,2,180.00,Transferencia,Lima,360.00
+25,2026-02-21,Mónica Herrera,Proyector Full HD,Electrónica,1,1650.00,Tarjeta de crédito,Lima,1650.00
+26,2026-02-23,Gustavo Pinto,Controlador PS5,Videojuegos,2,350.00,Yape,Lima,700.00
+27,2026-02-25,Silvia Aguilar,Organizador de Escritorio,Oficina,1,65.00,Efectivo,Cusco,65.00
+28,2026-02-27,Rafael Torres,Hub USB-C 7 en 1,Accesorios,1,130.00,Tarjeta de débito,Lima,130.00
+29,2026-03-01,Claudia Ramos,Lámpara de Pie,Iluminación,2,210.00,Yape,Arequipa,420.00
+30,2026-03-02,Benjamín Alva,Disco Duro Externo 2TB,Almacenamiento,1,280.00,Efectivo,Lima,280.00
+31,2026-03-03,Daniela Morales,Silla Gamer,Muebles,1,1100.00,Tarjeta de crédito,Trujillo,1100.00
+32,2026-03-04,Sergio Vargas,Auriculares Sony,Electrónica,1,410.00,Transferencia,Lima,410.00
+33,2026-03-04,Jimena Castro,Taza Térmica,Hogar,3,35.00,Yape,Iquitos,105.00
+34,2026-03-05,Ángel Reyes,Cargador Inalámbrico,Accesorios,2,90.00,Efectivo,Lima,180.00
+35,2026-03-05,Marcela Ríos,Notebook HP,Electrónica,1,3200.00,Tarjeta de crédito,Arequipa,3200.00
+36,2026-03-06,Ramón Huanca,Adaptador DisplayPort,Accesorios,1,55.00,Yape,Lima,55.00
+37,2026-03-06,Vanesa Parodi,Impresora Multifuncional,Oficina,1,780.00,Tarjeta de débito,Lima,780.00
+38,2026-03-07,Kevin Lara,Tarjeta Gráfica RTX 4060,Componentes,1,1900.00,Transferencia,Lima,1900.00
+39,2026-03-07,Paola Meza,Reloj Smartwatch,Electrónica,1,620.00,Tarjeta de crédito,Cusco,620.00
+40,2026-03-08,Fernando Arias,Ventilador de Torre,Hogar,1,175.00,Efectivo,Lima,175.00
+41,2026-03-08,Xiomara Delgado,Cuaderno Moleskine x3,Oficina,3,40.00,Yape,Trujillo,120.00
+42,2026-03-08,Bruno Saavedra,Kit de Limpieza PC,Accesorios,2,30.00,Efectivo,Lima,60.00
+43,2026-03-09,Alejandra Ibáñez,Audífono JBL,Electrónica,1,250.00,Tarjeta de débito,Lima,250.00
+44,2026-03-09,Nicolás Heredia,Fuente de Poder 750W,Componentes,1,320.00,Transferencia,Arequipa,320.00
+45,2026-03-09,Renata Salazar,Marco Digital para Fotos,Hogar,1,190.00,Yape,Lima,190.00
+46,2026-03-10,Esteban Ponce,Switch de Red 8 Puertos,Redes,1,240.00,Tarjeta de crédito,Lima,240.00
+47,2026-03-10,Nadia Blanco,Kindle Paperwhite,Electrónica,1,480.00,Efectivo,Piura,480.00
+48,2026-03-10,Cristian Vera,Gabinete ATX,Componentes,1,360.00,Yape,Lima,360.00
+49,2026-03-10,Milagros Quispe,Organizador de Cables,Accesorios,4,20.00,Efectivo,Cusco,80.00
+50,2026-03-10,Gonzalo Espinoza,Smart TV 55,Electrónica,1,2100.00,Tarjeta de crédito,Lima,2100.00
+
