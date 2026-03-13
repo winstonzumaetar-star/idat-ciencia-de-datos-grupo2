@@ -12,5 +12,6 @@ plt.subplot(2, 1, 2)
 plt.plot(mes, agua)
 plt.title("Gastos de Agua")
 
+
 plt.tight_layout()
 plt.show()
